@@ -32,6 +32,12 @@
     "frontend-e2e": {
       "tags": [],
       "implicitDependencies": ["frontend"]
+    },
+    "doctors-room-angular-patients": {
+      "tags": []
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
