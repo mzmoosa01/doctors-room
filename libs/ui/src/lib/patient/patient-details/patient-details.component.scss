@@ -1,0 +1,21 @@
+@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+
+.form-container
+{
+    text-align: center;
+    width: 400 px; 
+    margin: 0 px auto; 
+    margin-top: 200 px
+}
+
+.form-field{
+    display: block
+}
+
+.radio-container {
+    text-align: left;
+}
+
+.mat-radio-button {
+    padding-right: 10px;
+}
